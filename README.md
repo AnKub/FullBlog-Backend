@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 This is the backend part of the full blog application, built using Node.js and Express. It manages authentication, CRUD operations for posts, and file uploads.
 
-## 📌 Key Technologies
+## 📌 Technologies
 - 🚀 **Node.js & Express** – Backend framework
 - 🔒 **JWT (jsonwebtoken)** – User authentication
 - 🛡️ **Express Validator** – Input validation
